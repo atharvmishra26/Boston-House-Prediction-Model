@@ -1,5 +1,5 @@
 
-1. **Dataset Understanding:** The first step is to understand the dataset you're working with. The Boston Housing dataset contains information about various attributes of houses in Boston, such as crime rate, average number of rooms, accessibility to highways, and more.
+1. **Dataset Understanding:** The first step is to understand the dataset you're working with. The Boston Housing dataset contains information about various attributes of houses in Boston, such as crime rate, average number of rooms, accessibility to highways, and mor
 
 2. **Data Preprocessing:** Data preprocessing is crucial to ensure that your data is clean, consistent, and ready for analysis. This involves handling missing values, scaling numerical features, and encoding categorical variables if present.
 
